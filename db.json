@@ -11,8 +11,8 @@
         "id": "2",
         "name": "Jofi",
         "breed": "King Charles Cavalier",
-        "image": "xxx",
-        "image2": "xxx"
+        "image": "https://www.hallettvet.com/sites/default/files/styles/large/public/cavalier-king-charles-spaniel-dog-breed-info.jpg?itok=djzA2ft0",
+        "image2": "https://kids.kiddle.co/images/thumb/0/0e/Cavalier_King_Charles_Spaniel_02.jpg/300px-Cavalier_King_Charles_Spaniel_02.jpg"
       },
       {
         "id": "3",
@@ -25,15 +25,15 @@
         "id": "4",
         "name": "Sam",
         "breed": "German Shepard",
-        "image": "xxx",
-        "image2": "xxx"
+        "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/german-shepherd-dog-breed-info.jpeg",
+        "image2": "https://www.akc.org/wp-content/uploads/2017/11/German-Shepherd-puppies.jpg"
       },
       {
         "id": "5",
         "name": "Bob",
         "breed": "Golden Retriever",
-        "image": "xxx",
-        "image2": "xxx"
+        "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/golden-retriever-dog-breed-info.jpeg",
+        "image2": "https://images.unsplash.com/photo-1615233500064-caa995e2f9dd?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z29sZGVuJTIwcmV0cmlldmVyJTIwcHVwcHl8ZW58MHx8MHx8fDA%3D"
       }
     ]
   }

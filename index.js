@@ -36,10 +36,10 @@ const displayDogs = () => {
 
     function handleDoubleClick(e){
         let id = e.target.dataset.id
-        let dogImage2 = dogsArray.find(dog => dog.id == id)
-        img.src = dogImage2.image2
+        let dogImage = dogsArray.find(dog => dog.id == id)
+        img.src = dogImage.image2
     }
-    
+
 
 }
 
