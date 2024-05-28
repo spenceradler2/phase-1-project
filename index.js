@@ -30,7 +30,11 @@ const displayDogs = () => {
     document.querySelector('#dog-list').appendChild(img)
     document.querySelector('#dog-list').appendChild(dogName)
     document.querySelector('#dog-list').appendChild(dogBreed)
-  }
+    img.addEventListener('dblclick', handleDoubleClick)
+    function handleDoubleClick(){
+        img.src = dogsArray[0].image2
+    }
+}
 
   function handleButton(){
     alert('You have been added the waitlist!! We will email you shortly.')
@@ -41,11 +45,8 @@ const displayDogs = () => {
     displayDogs()
   }
 
-//   function handleDoubleClick(){
-//     img.src = dogsArray[0].image2
-// }
+
   
   //Event Listeners
   document.addEventListener("DOMContentLoaded", renderPage)
   btn.addEventListener('click', handleButton)
-//   img.addEventListener('dblclick', handleDoubleClick)
