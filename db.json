@@ -9,7 +9,7 @@
     },
       {
         "id": "2",
-        "name": "Yophi",
+        "name": "Jofi",
         "breed": "King Charles Cavalier",
         "image": "xxx",
         "image2": "xxx"
@@ -18,8 +18,8 @@
         "id": "3",
         "name": "Hans",
         "breed": "Bernese Mountain Dog",
-        "image": "xxx",
-        "image2": "xxx"
+        "image": "https://mail.google.com/mail/u/0?ui=2&ik=928549f11f&attid=0.1&permmsgid=msg-a:r-3753084664028594781&th=18fc09d36b3e490d&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_z8pxM50sgp8Gon2yyehFcLKK52qe_-okxgEfZPRIF4fUn0oZrcP3JlHR_4hyMFVdqmd-4qhvKzo-nRg35e4k7b1AtVUStgVOuRhvhVR5fD8bV0i34Sgx0q4c&disp=emb&realattid=7AC242FF-3B2A-48C0-B4B9-E0A2CC383FC7",
+        "image2": "https://mail.google.com/mail/u/0?ui=2&ik=928549f11f&attid=0.1&permmsgid=msg-a:r1510482298355601677&th=18fc09edea532f7b&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9cOr47scMT6FGF5HRvf3sIQypTeezOwaFDWC1WsjEvPbjcqtTpxcfXMmibBvA8iVmrQIodIzVLYBbgg9K9Sf7NemqyJyUrLnLHCMtTOLGqtsLmsDd3p8PCIrk&disp=emb&realattid=16147BAF-CE54-45DE-8737-AC29105EA6EF"
       },
       {
         "id": "4",
